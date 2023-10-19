@@ -17,7 +17,7 @@
 #include "SH1106Wire.h"
 #include "OLEDDisplayUi.h"
 
-#include "nuggs.h" // Nugget Face bitmap files
+#include "graphic.h" // Nugget Face bitmap files
 
 Adafruit_NeoPixel pixels {1, D8, NEO_GRB + NEO_KHZ800 }; // initialize 1 NeoPixel on D8
 
